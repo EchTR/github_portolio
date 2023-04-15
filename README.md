@@ -1,3 +1,2 @@
 # github_portolio
-
-write github token and github user name then you get their repostories(with stars and forks) in website.
+write your github token and somebody's github username then you get her repositories(with stars and forks) in local website.
