@@ -1,0 +1,26 @@
+html, body{
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	background-color: #2c3e50;
+}
+.box{
+	display: flex;
+	flex-wrap: wrap;
+	width: 90%;
+}
+
+.item{
+	border: 3px solid #ecf0f1;
+	border-radius: 25px;
+	color:  #ecf0f1;
+	width: 34.5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 1%;
+	padding-left: 5%;
+}
+.fa-star{color: #f1c40f}
+.fa-code-branch{}
